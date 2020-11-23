@@ -15,4 +15,4 @@ Delaware Environmental Observing System. 2018. Delaware Center for Environmental
 
 # To use:
 --------------------------------------------------
-Download zip folder and unzip. Note this location in line 5 of the code. Follow in line notes in code to edit the process to fit your data, or run the code as is to see how it works from our limited example. 
+Download zip folders and unzip to a shared working folder. Note this location in the beginning of the code. Follow in line notes in code to edit the process to fit your data and model training preferences, or run the code as is to see how it works from our limited example. 
