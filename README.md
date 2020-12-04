@@ -1,9 +1,6 @@
 # DownscalingDelawareSSM
 
-This code and associated data provided a reproducible example of the soil moisture downscaling methodology applied in the following manuscript:
-
-Warner, DL, Guevara, M, Callahan, J, Vargas, R. 2020. Downscaling satellite soil moisture for landscape applications in the Mid-Atlantic region, USA. 
-Submitted to: Journal of Hydrology: Regional Studies
+This code and associated data provided a reproducible example of a soil moisture downscaling methodology:
 
 The provided datasets only cover January, 2018. It is the intention of the authors that this code may be edited to suit the datasets of other users and facilitate their soil moisture (or remotely sensed grids) downscaling. 
 
